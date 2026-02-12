@@ -1,0 +1,77 @@
+.scanner-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.input-section {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.input-section input {
+    flex: 2;
+    padding: 0.75rem;
+    border: 2px solid #e2e8f0;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+}
+
+.input-section select {
+    flex: 1;
+    padding: 0.75rem;
+    border: 2px solid #e2e8f0;
+    border-radius: 0.5rem;
+}
+
+.input-section button {
+    padding: 0.75rem 2rem;
+    background: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.input-section button:disabled {
+    background: #cbd5e1;
+    cursor: not-allowed;
+}
+
+.error-message {
+    padding: 1rem;
+    background: #fee2e2;
+    color: #dc2626;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.results-section {
+    background: #f8fafc;
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+
+.result-summary {
+    margin-bottom: 2rem;
+}
+
+.ports-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ports-table th,
+.ports-table td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.ports-table th {
+    background: #3b82f6;
+    color: white;
+    font-weight: 600;
+}
