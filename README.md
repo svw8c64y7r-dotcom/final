@@ -7,12 +7,12 @@ An advanced network scanning application built with React, Vite, Flask, and Tail
 Deploy the project easily using the buttons below.
 
 ### 1. Deploy Frontend (Vercel)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/svw8c64y7r-dotcom/revised-epoteck&env=VITE_API_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/svw8c64y7r-dotcom/final&env=VITE_API_URL)
 
 **Note:** During deployment, Vercel will ask for `VITE_API_URL`. You can leave it blank initially and update it after deploying the backend.
 
 ### 2. Deploy Backend (Render)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/svw8c64y7r-dotcom/revised-epoteck)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/svw8c64y7r-dotcom/final)
 
 ## Features
 - **Frontend:** React + Vite + TailwindCSS
